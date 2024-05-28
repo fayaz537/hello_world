@@ -2,6 +2,7 @@ boxfuse-sample-java-war-hello
 =============================
 make
 
+hello-1
 hello
 Boxfuse Sample Hello World Java application packaged as a war file
 
